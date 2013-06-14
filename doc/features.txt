@@ -1,6 +1,0 @@
-[P]lay local music
-[L]ist local music
-
-# TODO
-[A]dd songs to playlist
-[Y]ield music file metadata of now playing
